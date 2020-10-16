@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="application.controllers.chatbot.chat_baseado_em_NLTK.Chat.conversa" />
+          <option value="code.split_category_dataset.methods" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
